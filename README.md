@@ -1,23 +1,27 @@
-# beginner-ruby
+# How To Ruby!
 
-## Grocery List
+#### By me, yo.
 
-* Chocolate Milk
-* Double Stuff Oreos
-* Family Size Bag of Funions
-* Like So Many Jars Of Pickles
-* Probably Some Cheese
+Ruby is a language used to make websites and is one of the building blocks of a language known as _Rails_. In order to truly understand Ruby, we first must understand the importance of _Variables_, _Conditionals_, and _Methods_.
 
-## Code
+*  ## Variables
+    Variables are used to represent _values_ such as integers, strings, booleans, and floats.
+    * ### Assigning Variables
+        When assigning a variable, we first need to know which variable we wish to assign and name that variable.
 
-This is a `variable`. Keep typing.
+         We are going to define the number **10** as "more_than_nine"
 
-```
-$ git add .
-```
+        ```
+        more_than_nine = 10
+        ```
 
-```
-def my_method(a)
-  a + 10
-end
-```
+        Easy enough, right?
+
+    * ### Using Variables
+        Now that we know
+
+        VARIABLES/TYPES
+
+        CONDITIONALS/EXPRESSIONS,BRANCHING
+
+        METHODS/?
